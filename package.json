@@ -1,0 +1,33 @@
+{
+    "author": "gunes314@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "flecxi",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "health"
+        ],
+        "displayName": "FleCxi",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "CONDITIONS": 1,
+            "LOCATION": 2,
+            "TEMPERATURE": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "16e9a1c3-462d-4e4c-aabb-f03c2d033e99",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
